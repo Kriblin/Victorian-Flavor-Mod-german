@@ -1,0 +1,56 @@
+﻿l_german:
+ sick_man.3.t:0 "Die Aussetzung der Verfassung"
+ sick_man.3.d:0 "Der neue Kurs, den wir in den letzten Jahrzehnten eingeschlagen haben, hat dem Land eindeutig geschadet. Die steigende Flut des Nationalismus konnte durch den törichten Liberalismus nicht eingedämmt werden, und die Christen des Reiches sind in ihren Bemühungen, uns zu untergraben, nur noch dreister geworden. Heute hat der [SCOPE.sCharacter('ottoman_sultan').GetPrimaryRoleTitle] die Verfassung außer Kraft gesetzt und [SCOPE.sCharacter('ottoman_sultan').GetHerHis] die absolute Macht über den Staat wiederhergestellt. Das Tempo der Modernisierung wird nicht nachlassen, aber wir werden den Wandel im Einklang mit unseren traditionellen Werten vollziehen."
+ sick_man.3.f:0 "Seine Erhabene Majestät ist der Ansicht, dass die gegenwärtige Situation des Reiches unhaltbar ist, und er beschließt daher, die unselige Verfassung zu verbieten, die ihm von unfähigen Ministern aufgezwungen wurde. Mit sofortiger Wirkung wird der Status dieser Personen auf den von Sekretären reduziert, und sie werden daran erinnert, dass ihre Aufgabe darin besteht, [SCOPE.sCharacter('ottoman_sultan').GetHerHis] Willen auszuführen. Seine Erhabene Majestät hat es angeordnet. Gott ist der Größte!"
+ sick_man.3.a:0 "Der Sultan ist wirklich weise."
+ 
+ sick_man.2.t:0 "Anbruch des verfassungsmäßigen Zeitalters"
+ sick_man.2.desc:0 "Das [ROOT.GetCountry.GetName] hat große Fortschritte in der Staatsführung gemacht. Die Abschaffung des Eyalet-Systems und die Aufhebung der Trennung zwischen den Milleti hat dazu beigetragen, die Macht in den Händen des Sultans zu zentralisieren, der nun über einen Staat herrscht, in dem alle als [SCOPE.sCharacter('ottoman_sultan').GetHerHis] Untertanen gleich sind. Eine neue Ära beginnt für den [ROOT.GetCountry.GetAdjectiveNoFormatting] Staat."
+ sick_man.2.f:0 "Erhaben. Das ist das einzige Wort dafür. Durch die Straßen von Konstantinyje zu gehen und moderne Fabriken und Schulen zu sehen, die Wachen bei ihrem militärischen Drill zu beobachten. Ein einziges Volk, vereint unter dem Haus Osman. Und wenn man bedenkt, dass das Reich noch vor wenigen Jahrzehnten am Rande des Zusammenbruchs stand! Wo wir einst ein geteiltes Volk waren, verneigen sich nun Menschen aller Religionen und Nationen vor unserem edlen Sultan. Gott ist gut!"
+ sick_man.2.a:0 "Die Armee könnte weitere Reformen gebrauchen."
+ sick_man.2.b:0 "Wir sollten den Balkan zurückerobern!"
+ sick_man.2.c:0 "Setzen Sie die Urbanisierung fort."
+ sick_man.2.d:0 "Wir werden die Früchte der Bildung ernten."
+ 
+ sick_man.1.t:0 "Der kranke Mann von Europa"
+ sick_man.1.d:0 "Das [ROOT.GetCountry.GetName] befindet sich in einer angespannten Phase der Reformen. Es herrscht ein Konflikt zwischen denjenigen, die die absolute Autorität des Sultans aufrechterhalten und an den traditionellen Strukturen festhalten wollen, die uns durch die vergangenen Jahrhunderte gebracht haben, und denjenigen, die sie im Namen der Modernität abschaffen und eine Gesellschaft schaffen wollen, in der alle als Untertanen des Hauses Osman gleichberechtigt sind. Unser jüngster Umgang mit den Russen hat unsere Beziehungen zu Großbritannien prekär gemacht, und es wird deutlich, dass wir innenpolitisch und international auf einem schmalen Grat wandeln, wenn wir nicht vorsichtig sind, ist eine Katastrophe vorprogrammiert..."
+ sick_man.1.f:0 "Der Sultan begünstigt die Reformer, und so werden wir weiter vorankommen. Bei dem verheißungsvollen Zwischenfall haben wir die Janitscharen vernichtet, die sich jahrhundertelang an der Macht gehalten hatten, und damit ein großes Hindernis für die Neugestaltung des osmanischen Staates beseitigt. Es gibt noch viel mehr zu tun. Die Armee muss professionalisiert, die Marine wiederhergestellt, die Eyalets ersetzt und die Millets zurückgedrängt werden. Der Pascha von Ägypten muss diszipliniert werden, unsere Kontrolle über die Levante muss wiederhergestellt werden, die russischen Errungenschaften im Kaukasus müssen rückgängig gemacht und den nagenden Forderungen der christlichen Mächte, sich zugunsten unserer unzufriedenen Minderheiten einzumischen, muss widerstanden werden. Haltet durch, und mit Glück und Geduld könnt Ihr den [ROOT.GetCountry.GetAdjectiveNoFormatting]-Staat wieder auf den Pfad des Ruhmes führen!"
+ sick_man.1.a:0 "Lasst uns sehen, was die Zukunft bringt."
+ 
+ je_sick_man_main:0 "Der kranke Mann von Europa"
+ je_sick_man_main_reason:0 "Eine Ära des Wandels und der Reformen hat für [ROOT.GetCountry.GetName] begonnen, ob zum Guten oder zum Schlechten, wird sich zeigen."
+ je_sick_man_main_goal:0 "8 'Tanzimat' abschließen [Concept('concept_journal_entry', '$concept_journal_entries$')]"
+ 
+ je_sick_man_syria:0 "Tanzimat: Syrien zurückfordern"
+ je_sick_man_syria_reason:0 "Syrien ist de facto unter die Kontrolle des ehrgeizigen Paschas von Ägypten geraten, der unsere imperiale Macht an sich reißen will. Wir müssen seine Armeen nach Ägypten zurücktreiben und ihn in seine Schranken weisen."
+ je_sick_man_syria_status:0 "Ein diplomatisches Spiel gegen Ägypten zu beginnen, wird europäischen [Concept('concept_great_power', '$concept_great_powers$')] ein [concept_active_interest] in der Region geben."
+ je_sick_man_syria_tt: "Ägypten besitzt kein Land in den genannten Staaten."
+ 
+ je_sick_man_egypt:0 "Ägypten befrieden"
+ je_sick_man_egypt_reason:0 "Wenn Syrien zurückerobert ist, kann Ägypten wieder seinen Platz einnehmen. Wir können entweder einen militärischen Feldzug starten, um diesen rebellischen Vasallen zu unterwerfen, oder ein Abkommen mit Ali Pascha anstreben."
+ je_sick_man_egypt_tt: "Ägypten besitzt kein Land in den genannten Staaten."
+ 
+ je_sick_man_economy:0 "Tanzimat: Wirtschaftswachstum"
+ je_sick_man_economy_reason:0 "Unsere Wirtschaft ist weitgehend agrarisch und sehr ländlich geprägt. Das kommt unseren konservativen lokalen Beys und Sanjaks sowie dem Klerus der verschiedenen Milleti entgegen, die größtenteils von den Pachten und Abgaben der Bauern leben, bietet aber keine geeignete Grundlage für eine moderne Macht. Wir sollten die Produktion und unsere urbanen Zentren ausbauen."
+ je_sick_man_economy_goal:0 "Verdoppeln Sie Ihr BIP."
+ 
+ je_sick_man_education:0 "Tanzimat: Bildungsreform"
+ je_sick_man_education_reason:0 "Ein Hauptproblem unserer Reformagenda ist der Mangel an gebildeten und gebildeten Männern in unserer Bevölkerung. Dies behindert unsere Bemühungen, nicht nur eine moderne Wirtschaft und ein modernes Militär aufzubauen, sondern auch die kulturellen Barrieren zwischen unserer vielfältigen Bevölkerung zu überwinden. Dieses Problem ist besonders akut in unseren muslimischen Untertanen, was dazu führt, dass eine christliche und jüdische Mittelschicht das Wirtschaftsleben in vielen unserer Städte dominiert. Die Einrichtung von Bildungseinrichtungen und die Förderung der Alphabetisierung müssen oberste Priorität haben."
+ je_sick_man_education_goal:0 "Erhöhen Sie die Alphabetisierungsrate Ihres Volkes um 10%."
+ 
+ je_sick_man_separatism:0 "Tanzimat: Sektenkonflikt unterdrücken"
+ je_sick_man_separatism_reason:0 "Die Auseinandersetzungen zwischen den Rajas und den Türken haben unsere Regierung zunehmend untergraben und dem Ausland einen Vorwand geliefert, sich in unsere lokale Politik einzumischen.Aufgrund der sektiererischen Unruhen und der europäischen Einmischung haben wir unseren Einfluss auf Griechenland, Serbien und die rumänischen Fürstentümer verloren.Wir müssen diese Spannungen beruhigen und verhindern, dass sie eskalieren, wenn wir weitere Verluste vermeiden wollen."
+ je_sick_man_separatism_goal:0 "Für insgesamt 15 Jahre muss Folgendes gelten:"
+
+ je_sick_man_army:0 "Tanzimat: Heeresmodernisierung"
+ je_sick_man_army_reason:0 "Auch wenn die Janitscharen vernichtet wurden, muss noch viel mehr getan werden, um unsere Streitkräfte zu modernisieren.Wir müssen eine Berufsarmee schaffen und für ihre Disziplin sorgen, damit sie nicht zu inneren Unruhen beiträgt und die Reformen untergräbt.Gegenwärtig verlassen wir uns bei Garnisonsaufgaben und der Durchsetzung unseres Willens in der gesamten Levante in hohem Maße auf kurdische Freischärler, deren Brutalität und wilde Hingabe an den Islam jedoch ebenso oft ein Hindernis wie eine Hilfe ist.Der Aufbau einer disziplinierten, loyalen und modernen Armee wird nicht einfach sein, aber es wird sich lohnen."
+
+ je_sick_man_bureaucracy:0 "Tanzimat: Bürokratie-Reform"
+ je_sick_man_bureaucracy_reason:0 "Unsere Bürokratie ist ein Flickenteppich aus archaischen Gesetzen und Systemen, mit korrupten, autonomen Beys, die kaum Kontrolle über die Provinzen des Reiches ausüben.Wenn wir die vielen Herausforderungen für unsere Herrschaft bewältigen wollen, müssen wir unser Verwaltungssystem modernisieren."
+ 
+
+ 
+ 
+ 
+ 
+ 

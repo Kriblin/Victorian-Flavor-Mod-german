@@ -1,0 +1,12 @@
+﻿l_german:
+
+dp_unify_india: "Indien vereinigen"
+dp_unify_india_tooltip: "#header Starte ein $dp_unify_india$ [concept_diplomatic_play]#!\n$TOOLTIP_DELIMITER$\n$dp_unify_india_desc$"
+dp_unify_india_desc: "Setzt das initiierende [concept_war_goal] auf die Annexion aller kleineren indischen Länder."
+dp_unify_ethiopia: "Äthiopien vereinigen"
+dp_unify_ethiopia_tooltip: "#header Starte ein $dp_unify_india$ [concept_diplomatic_play]#!\n$TOOLTIP_DELIMITER$\n$dp_unify_ethiopia_desc$"
+dp_unify_ethiopia_desc: "Setzt das initiierende [concept_war_goal] auf die Annexion aller kleineren äthiopischen Länder."
+
+dp_leadership_india: "Indische Führung"
+dp_leadership_india_desc: "Starte ein $dp_leadership_india$ [concept_diplomatic_play]\n$TOOLTIP_DELIMITER$\n$dp_leadership_india_tooltip_desc$"
+dp_leadership_india_tooltip_desc: "Setzt das initiierende [concept_war_goal] darauf ab, das Ziel [concept_country] als [concept_unification_candidate] der indischen [Concept('concept_unification', '$concept_major_unification$')] zu entfernen."

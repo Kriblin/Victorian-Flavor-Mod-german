@@ -1,0 +1,20 @@
+﻿l_german:
+ berlin_conference_attendees_15: "15"
+ berlin_conference_attendees_6: "6"
+ berlin_conference_attendees_5: "5"
+ berlin_conference_attendees_4: "4"
+ berlin_conference_attendees_3: "3"
+ berlin_conference_attendees_2: "2"
+ berlin_conference_attendees_1: "1"
+ berlin_conference_attendees_0: "[Country.MakeScope.Var('berlin_conference_host').GetName]"
+
+ #All of the following are renames to the politician character role defined through customizable localization.
+ politician_default_role: "Politiker"
+ prime_minister_role: "Premierminister"
+ vice_president_role: "Vizepräsident"
+ secretary_of_state_role: "Außenminister"
+ captain_role: "Kapitän"
+ industrialist_role: "Industrieller"
+ explorer_role: "Entdecker"
+ government_member_role: "Regierungsmitglied"
+ opposition_member_role: "Oppositionsmitglied"

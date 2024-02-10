@@ -1,0 +1,23 @@
+﻿l_german:
+ 
+ country_flavor_button: "Detaillierte Beschreibung anzeigen"
+ COUNTRY_FLAVOR_TEXT: "Eine detaillierte Textbeschreibung des Hintergrunds und der Situation dieses Landes anzeigen."
+ country_statistics_button: "Statistiken anzeigen"
+ COUNTRY_STATISTICS_TEXT: "Verallgemeinerte Statistiken dieses Landes anzeigen."
+ country_diplomacy_button: "Diplomatie anzeigen"
+ COUNTRY_DIPLOMACY_TEXT: "Kriege, Vasallen und diplomatische Aktionen dieses Landes anzeigen."
+ COUNTRY_POLITICS_TEXT: "Die interne Politik dieses Landes anzeigen."
+ COUNTRY_STATES_TEXT: "Die Staaten dieses Landes anzeigen."
+
+ VFM_TOOLTIP: "Victorian Flavor Mod"
+
+ RULER_INFO_TEXT: "#title [SelectLocalization(Character.IsRuler, Concept('concept_ruler', Character.GetPrimaryRoleTitle), Character.GetPrimaryRoleName)]#!:\n[Character.GetFullName]"
+ HEIR_INFO_TEXT: "#title [SelectLocalization(Character.IsHeir, Concept('concept_heir', Character.GetPrimaryRoleTitle), Character.GetPrimaryRoleName)]#!:\n[Character.GetFullName]"
+ VICE_PRESIDENT_INFO_TEXT: "#title [SelectLocalization(Country.MakeScope.Var('vice_president').IsSet, Concept('concept_politician', Character.GetCustom('politician_role')), Character.GetPrimaryRoleName)]#!:\n[Character.GetFullName]"
+ PRIME_MINISTER_INFO_TEXT: "#title [SelectLocalization(Country.MakeScope.Var('prime_minister').IsSet, Concept('concept_politician', Character.GetCustom('politician_role')), Character.GetPrimaryRoleName)]#!:\n[Character.GetFullName]"
+
+ BUILDING_THROUGHPUT_HEADER: "Durchsatz"
+ BUILDING_THROUGHPUT_TOOLTIP: "[SelectLocalization(EqualTo_CFixedPoint(Building.GetThroughputBonusCurrent, Building.GetThroughputBonusTarget), 'THROUGHPUT_TOOLTIP_CONSTANT', 'THROUGHPUT_TOOLTIP_CHANGING')]"
+
+ VFM_WELCOME_TEXT: "Wenn dies Ihr erster Spielversuch ist, hier sind ein paar wichtige Hinweise:\n\n-Das Unterwerfen oder Erobern von Staaten aus nicht anerkannten Ländern erfordert jetzt ein Kolonialgesetz, das nicht das Grenzkolonisierung-Gesetz ist, was diese diplomatischen Aktionen auf benachbarte Staaten beschränkt.\n\n-Neue Charakterrollen wie Vizepräsidenten und Premierminister werden monatlich aktualisiert. Wenn Sie eine schwarze Silhouette anstelle eines Charakters sehen, kann es einen Monat oder zwei dauern, bis sie ersetzt werden.\n\n-Die Alphabetisierungsraten ändern sich eine Woche nach Spielbeginn, um die historische Situation zum Spielstart genauer widerzuspiegeln. Ihre Ausgangsalphabetisierungsrate wird wahrscheinlich viel niedriger sein als jetzt.\n\n-Kartenzusammenhängende Spielregeln müssen vor der Generierung der Karte festgelegt werden. Wenn eine Spielregel, die Sie auf einem vorherigen Bildschirm festgelegt haben, nicht zu funktionieren scheint, starten Sie ein neues Spiel vom Hauptmenü aus mit der festgelegten Spielregel.\n\n-Save-Breaking-Updates sind selten, müssen aber manchmal durchgeführt werden, um neuen Inhalt bereitzustellen. Frühere Versionen des Mods finden Sie immer auf unseren Paradox Mods- und GitHub-Seiten, um Ihre Spielstände fortzusetzen.\n\nVielen Dank fürs Spielen!"
+

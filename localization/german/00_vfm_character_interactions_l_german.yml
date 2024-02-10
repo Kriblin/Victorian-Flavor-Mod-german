@@ -1,0 +1,7 @@
+﻿l_german:
+ resign_from_office: "Vom Amt zurücktreten"
+ resign_from_office_info: "Der [Character.GetPrimaryRoleTitle] wird von seinem Amt zurücktreten und die Rolle des [Character.GetPrimaryRoleTitle] an den Vizepräsidenten übergeben."
+ appoint_prime_minister: "Ernennung des Premierministers"
+ appoint_prime_minister_info: "Das Staatsoberhaupt unseres Landes übt seine Macht aus, um einen neuen Premierminister zu ernennen, den alten zu entlassen oder zu ersetzen. Der neue Premierminister erhält die Möglichkeit, seine eigene Regierung zu bilden."
+ dissolve_government: "Die Regierung auflösen"
+ dissolve_government_info: "Das Staatsoberhaupt unseres Landes übt seine Macht aus, um das aktuelle Parlament aufzulösen und sofort eine Neuwahl anzusetzen."

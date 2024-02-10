@@ -1,0 +1,5 @@
+﻿l_german:
+ ai_strategy_restore_peruvian_sovereignty:  "Wiederherstellung der peruanischen Souveränität"
+ ai_strategy_restore_peruvian_sovereignty_desc: "[COUNTRY.GetName] möchte seine Unabhängigkeit zurückgewinnen und die nationalen Grenzen wiederherstellen."
+ ai_strategy_raise_the_confederation: "Eine Konföderation gründen"
+ ai_strategy_raise_the_confederation_desc: "[COUNTRY.GetName] möchte eine stabile Umgebung für die Gründung der Konföderation schaffen."

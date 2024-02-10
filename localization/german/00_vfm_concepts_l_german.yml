@@ -1,0 +1,38 @@
+﻿l_german:
+  # Subjects
+
+  concept_chartered_company: "Handelskompanie"
+  concept_chartered_company_desc: "[Concept('concept_recognized_power','$concept_recognized_powers$')] können eine $concept_chartered_company$ gründen. Eine $concept_chartered_company$ ist ein autonomerer [concept_subject]-Typ, der in der Lage ist, eigene [Concept('concept_diplomatic_play','$concept_diplomatic_plays$')] zu starten und nicht gezwungen ist, sich an die [Concept('concept_overlord','$concept_overlord_possessive$')] [Concept('concept_war','$concept_wars$')] anzuschließen. Sie müssen #v 20%#! ihres [concept_treasury]-Einkommens an ihren $concept_overlord$ zahlen und haben Einschränkungen bei der Erklärung der Unabhängigkeit."
+
+  concept_real_union: "Realunion"
+  concept_real_union_desc: "Zwei [Concept('concept_country', '$concept_countries$')] können in einer $concept_real_union$ zusammengeführt werden, einem [concept_subject], das eine Union von zwei oder mehr $concept_countries$ symbolisiert, die einige Staatsinstitutionen teilen, im Gegensatz zu Personalunionen. Das Subjekt kann keine eigenen [Concept('concept_diplomatic_play','$concept_diplomatic_plays$')] starten, ist jedoch gezwungen, sich den [Concept('concept_war','$concept_wars$')] ihres $concept_overlord$ anzuschließen."
+
+  concept_dependency: "Abhängigkeit / Vasallenstaat"
+  concept_dependency_desc: "Ein großes Land kann einer Region $concept_dependency$ geben, eine [concept_subject]-Beziehung, bei der der Juniorpartner fast vollständig in das [concept_overlord] integriert ist. Das Subjekt kann keine eigenen [Concept('concept_diplomatic_play','$concept_diplomatic_plays$')] starten, ist jedoch gezwungen, sich den [Concept('concept_war','$concept_wars$')] seines $concept_overlord$ anzuschließen."
+
+  concept_confederation: "Konföderation"
+  concept_confederation_desc: "Zwei Länder können in einer $concept_confederation$ zusammengeführt werden, einer [concept_subject]-Beziehung, bei der der Juniorpartner fast vollständig unabhängig ist, aber eine enge Beziehung zum [concept_overlord] behält. Das Subjekt wird in [Concept('concept_diplomatic_play','$concept_diplomatic_plays$')] geschützt und ist gezwungen, sich den [Concept('concept_war','$concept_wars$')] seines $concept_overlord$ anzuschließen."
+
+  concept_defensive_pact_confederation: "Verteidigungspakt"
+  concept_defensive_pact_confederation_desc: "Ein [concept_diplomatic_pact] zwischen zwei [Concept('concept_country','$concept_countries$')]. $concept_countries$ in einem $concept_defensive_pact$ können sich immer gegenseitig in [Concept('concept_diplomatic_play','$concept_diplomatic_plays$')] unterstützen, in denen sie das primäre Ziel sind, unabhängig davon, ob die andere Seite ein aktives [concept_active_interest] in der betroffenen [concept_strategic_region] hat. Dies erstreckt sich nicht auf $concept_diplomatic_plays$, bei denen die andere Partei der Initiator ist, oder bei denen sie eine dritte $concept_country$ als primäres Ziel unterstützen."
+ 
+ concept_tributary_ally: "Tributgeber"
+ concept_tributary_ally_desc: "[Concept('concept_unrecognized_power','$concept_unrecognized_powers$')] können ein schwächeres [concept_country] in ihren $concept_tributary_ally$ verwandeln. Ein $concept_tributary_ally$ ist ein autonomerer [concept_subject]-Typ, der in der Lage ist, eigene [Concept('concept_diplomatic_play','$concept_diplomatic_plays$')] zu starten und nicht gezwungen ist, sich den [Concept('concept_overlord','$concept_overlord_possessive$')] [Concept('concept_war','$concept_wars$')] oder [concept_customs_union] anzuschließen. Sie müssen #v 10%#! ihres [concept_treasury]-Einkommens an ihren $concept_overlord$ zahlen."
+
+ concept_constitution: "Verfassung"
+ concept_constitution_desc: "Das Leitdokument des aktuellen Staates. Es beschränkt, welche Gesetzgebungsgruppen direkt durch das Parlament verabschiedet werden können.\nVerfassungen können auf verschiedene Weise geändert werden:\n -Revolutionen können die alte Verfassung beseitigen und ihre eigene schreiben\n -Ein Referendum kann das Volk für einen neuen Staat stimmen lassen\n -Änderungen können einzelne Gesetze ändern"
+
+ context_concert_of_europe: "#blue;bold Europäisches Konzert der Großmächte#!"
+ context_concert_of_europe_desc: "test"
+ context_treaty_of_paris_1814: "#blue;bold Vertrag von Paris (1814)#!"
+ context_treaty_of_paris_1814_desc: "test"
+ context_treaty_of_paris_1815: "#blue;bold Vertrag von Paris (1815)#!"
+ context_treaty_of_paris_1815_desc: "test"
+ context_congress_of_vienna: "#blue;bold Wiener Kongress#!"
+ context_congress_of_vienna_desc: "test"
+ context_french_revolution: "#blue;bold Franzözische Revolution#!"
+ context_french_revolutionary_wars: "#blue;bold Franzözische Bürgerkrieg#!"
+ context_napoleonic_wars: "#blue;bold Napoleonische Kriege#!"
+ context_bourbon_restoration: "#blue;bold Bourbonen-Restauration#!"
+ context_july_monarchy: "#blue;bold Julimonarchie#!"
+ context_first_reform_act: "#blue;bold Erstes Reformgesetz#!"

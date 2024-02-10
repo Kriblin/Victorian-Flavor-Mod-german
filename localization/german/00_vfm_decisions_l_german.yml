@@ -1,0 +1,74 @@
+﻿l_german:
+  game_rules_failsafe: "Erzwingen der Spielregeln"
+  game_rules_failsafe_desc: "Falls die Spielregeln aus irgendeinem Grund nicht in Kraft treten, wird diese Entscheidung sie erzwingen."
+
+  south_africa_unite_saf: "Südafrika vereinigen"
+  south_africa_unite_saf_desc: "Der Traum von der Union Südafrikas muss verwirklicht werden. Indem wir wirtschaftlich dominant über unsere Nachbarkolonien werden und gleichzeitig gute Beziehungen zur Zentralregierung aufrechterhalten, können wir die Annexion eines unserer Nachbarn vorschlagen."
+
+  south_africa_unite_gbr: "Südafrika vereinigen"
+  south_africa_unite_gbr_desc: "Wir wünschen uns, dass alle südafrikanischen Kolonien zu einer verschmelzen und die Union Südafrika entsteht. Um dies zu erreichen, müssen wir die lokalen Kolonialverwaltungen davon überzeugen, dass die Vereinigung in ihrem besten Interesse ist."
+
+  south_africa_unite_force_saf: "Boer-Nachbarn unterwerfen"
+  south_africa_unite_force_saf_desc: "Der Traum von der Union Südafrikas muss verwirklicht werden, notfalls mit Gewalt. Wir können die Unterwerfung eines unserer Nachbarn vorschlagen."
+
+ gbr_expand_south_africa: "Südafrikanische Kolonialverwaltung erweitern"
+ gbr_expand_south_africa_desc: "Wir halten derzeit Ländereien in Südafrika, die besser von unserem Kolonialsubjekt verwaltet werden könnten."
+ expand_south_africa_tt: "Übertragen Sie die Kontrolle über alle Ländereien in Südafrika an unsere Kolonie." 
+
+ establish_south_africa_company: "Die South Africa Company gründen"
+ establish_south_africa_company_desc: "Gründen Sie eine neue Handelskompanie aus unseren Besitzungen in Rhodesien und Nyasaland"
+ establish_niger_company: "Die Niger Company gründen"
+ establish_niger_company_desc: "Gründen Sie eine neue Handelskompanie aus unseren Besitzungen in Nigeria"
+ establish_imperial_east_africa_company: "Die Imperial East Africa Company gründen"
+ establish_imperial_east_africa_company_desc: "Gründen Sie eine neue Handelskompanie aus unseren Besitzungen in Kenia und Uganda"
+ establish_german_east_africa_company: "Die East Africa Company gründen"
+ establish_german_east_africa_company_desc: "Gründen Sie eine neue Handelskompanie aus unseren Besitzungen in Tanganyika und Zanzibar"
+
+ expand_imperial_east_africa_company: "Die Verwaltung der Imperial East Africa Company erweitern"
+ expand_imperial_east_africa_company_desc: "Wir halten derzeit Ländereien in Kenia und Uganda, die besser von unserem Kolonialsubjekt verwaltet werden könnten."
+ expand_imperial_east_africa_company_tt: "Übertragen Sie die Kontrolle über alle Ländereien in Kenia und Uganda an unsere Kolonie."
+
+ expand_german_east_africa: "Die Verwaltung der East Africa Company erweitern"
+ expand_german_east_africa_desc: "Wir halten derzeit Ländereien in Tanganyika und Zanzibar, die besser von unserem Kolonialsubjekt verwaltet werden könnten."
+ expand_german_east_africa_tt: "Übertragen Sie die Kontrolle über alle Ländereien in Tanganyika und Zanzibar an unsere Kolonie."
+
+ expand_south_africa_company: "Die Verwaltung der South Africa Company erweitern"
+ expand_south_africa_company_desc: "Wir halten derzeit Ländereien in Rhodesien und Nyasaland, die besser von unserem  Kolonialsubjekt verwaltet werden könnten."
+ expand_south_africa_company_tt: "Übertragen Sie die Kontrolle über alle Ländereien in Rhodesien und Nyasaland an unsere Kolonie."
+
+ expand_niger_company: "Die Verwaltung der Niger Company erweitern"
+ expand_niger_company_desc: "Wir halten derzeit Ländereien in Nigeria, die besser von unserem Kolonialsubjekt verwaltet werden könnten."
+ expand_niger_company_tt: "Übertragen Sie die Kontrolle über alle Ländereien in Nigeria an unsere Kolonie."
+
+ adopt_western_uniforms: "Westliche Uniformen übernehmen"
+ adopt_western_uniforms_desc: "Mit der Übernahme der modernen Militärdoktrin ist es nur angemessen, dass wir die entsprechende Ästhetik übernehmen." 
+ 
+ natural_borders_france: "Unsere Grenze entlang des Rheins festlegen"
+ natural_borders_france_desc: "Wir werden eine Landübertragung mit den Nationen entlang des Rheins organisieren, um unsere natürlichen Grenzen wiederherzustellen."
+
+ host_berlin_conference: "Eine Kolonialkonferenz zu Afrika in unserer Hauptstadt abhalten"
+ host_berlin_conference_desc: "-"
+ 
+ expand_philipines: "Die philippinische Verwaltung erweitern"
+ expand_philipines_desc: "Wir halten derzeit Ländereien auf den Philippinen, die besser von unserem Kolonialsubjekt verwaltet werden könnten."
+ expand_philipines_tt: "Übertragen Sie die Kontrolle über alle Ländereien auf den Philippinen an unsere Kolonie."
+ 
+ expand_transcaucasia: "Erweitern Sie das kaukasische Vizekönigreich"
+ expand_transcaucasia_desc: "Wir haben unsere Kontrolle über den Kaukasus ausgeweitet, aber es wäre in unserem besten Interesse, diese Gebiete an unser Subjekt zu übergeben."
+ expand_transcaucasia_tt: "Übertragen Sie die Kontrolle über alle kaukasischen Ländereien an unser Vizekönigreich."
+ expand_transcaucasia_tt: "Transfer control of all Caucasian lands to our Viceroyalty."
+ greek_archeology_decision: "Archäologische Ausgrabungen"#
+ greek_archeology_decision_desc: "Wir müssen führende ausländische Archäologen einladen, um unsere historischen Stätten auf die Karte zu setzen!"
+
+ korea_china_alliance: "Korea als gleichberechtigt erklären"
+ korea_china_alliance_desc: "Wir haben uns als zuverlässiger Verbündeter Chinas erwiesen und können über das Label des Tributstaates hinausgehen."
+ 
+ ohiggins1: "O'Higgins zurückbringen"
+ ohiggins1_desc: "Unser Vater des Vaterlandes ist in Peru, nachdem er abgedankt hat, um einen großen Konflikt zwischen Chilenen zu vermeiden, aber jetzt ist genug Zeit vergangen und Chile hat eine beispiellose Stabilität erreicht. Vielleicht ist es an der Zeit, Bernardo O'Higgins zurückzubringen und ihm den Titel zu verleihen, den er verdient: "Generalhauptmann der Armee von Chile". Diego Portales ist nicht einverstanden und behauptet nachdrücklich, dass die Rückkehr einer so polemischen Figur ernste Konsequenzen haben könnte und die Spannungen zwischen ehemaligen Feinden erhöhen würde."
+ is_ohiggins_desc: "Bernardo O'Higgins lebt"
+ is_portales_desc: "Diego Portales ist aus der Politik zurückgetreten"
+ return_ohiggins "Bernardo O'Higgins wird nach Chile zurückkehren und eine militärische Position erhalten"
+  
+ expand_madagascar: "Die madagassische Verwaltung erweitern"
+ expand_madagascar_desc: "Wir halten derzeit Ländereien auf Madagaskar, die besser von unserem Kolonialsubjekt verwaltet werden könnten."
+ expand_madagascar_tt: "Übertragen Sie die Kontrolle über alle Ländereien auf Madagaskar an unsere Kolonie."

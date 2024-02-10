@@ -1,0 +1,6 @@
+﻿l_german:
+ gov_khedive_desc:2 "Dies ist ein [concept_government_type], bei dem die Macht beim [Concept('concept_ruler','$RULER_TITLE_KHEDIVE$')] liegt, einem aus dem Persischen abgeleiteten Titel, der in etwa "König" bedeutet und den Herrscher über einen einfachen [Concept('concept_ruler','$RULER_TITLE_VALI$')] erhebt, dem Osmanischen Reich den Titel "Sultan" aber nicht formell streitig macht. \n\n$TRANSFER_OF_POWER_NAME_DESC$"
+ gov_parliamentary_oligarchy: "Parlamentarische Oligarchie"
+ gov_parliamentary_oligarchy_desc: "Dies ist ein [concept_government_type], bei dem das [concept_country] von einer reichen und mächtigen politischen Klasse regiert wird.\n\n$TRANSFER_OF_POWER_NAME_DESC$"
+ gov_parliamentary_democracy: "Parlamentarische Republik"
+ gov_parliamentary_democracy_desc: "Dies ist eine [concept_government_type], bei der das [concept_country] von einem demokratisch [Concept('concept_election','$concept_elected$')] gewählten Parlament regiert wird.\n\n$TRANSFER_OF_POWER_NAME_DESC$"

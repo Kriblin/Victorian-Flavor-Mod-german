@@ -1,0 +1,51 @@
+﻿l_german:
+ je_sick_man_main_goal:0 "8 'Tanzimat' abschließen [Concept('concept_journal_entry', '$concept_journal_entries$')]"
+ heavenly.4.f:0 ""Das glorreiche Schwert der Autorität wurde vom Herrn gegeben,\nGedichte und Bücher sind Beweise, die Jahwe preisen.\nTaiping vereint die Welt des Lichts,\nDie herrschende Luft wird für Myriaden von Jahrtausenden fröhlich sein.""
+ ig_samurai:0 "Samurai"
+ bureaucracy.1.f:0 ""Ich würde Ihnen gerne helfen, aber leider ist dieses Anforderungsformular nur zweimal abgestempelt worden. Sie müssen eine Beschwerde beim regionalen Ombudsmann einreichen, der zur Zeit sehr damit beschäftigt ist, unser neues Ablagesystem zu optimieren. Sie können mit einer prompten Antwort innerhalb von sechs bis acht Monaten rechnen.'"
+ siberia_tt:0 "Jeder Staat in [SCOPE.sStrategicRegion('east_siberia').GetName], [SCOPE.sStrategicRegion('west_siberia').GetName] und [SCOPE.sStrategicRegion('manchuria').GetName] mit einer Eisenbahn erhält:"
+ meiji.13.f:0 "Die wechselnden Winde der Zeit heulen gegen unsere Tür, und um unsere Einrichtung zu bewahren, müssen wir sie den Launen der Welt beugen und öffnen."
+stop_suez_survey_decision:0 "Abbrechen der Suez-Umfrage"
+ stop_suez_survey_decision_desc:0 "Die immensen Kosten für die Durchführung unserer Vermessung des Suez könnten zu einer untragbaren Belastung werden. Sollten wir das Projekt abbrechen, müssten wir bei einem erneuten Versuch wieder bei Null anfangen."
+ stop_panama_survey_decision:0 "Stornierung der Panama-Umfrage"
+ stop_panama_survey_decision_desc:0 "Die immensen Kosten für die Durchführung unserer Umfrage in Panama könnten zu einer untragbaren Belastung werden. Sollten wir das Projekt abbrechen, müssten wir bei einem erneuten Versuch wieder bei Null anfangen."
+
+ springtime_worsened_name: "Revolutionäre erzürnt"
+ springtime_worsened_desc: "#BOLD Revolutionärer Eifer#! in [SCOPE.GetRootScope.GetCountry.GetName] hat weiter zugenommen."
+ springtime_worsened_tooltip: "#header $warlord_china_explosion_point_name$#!\n$TOOLTIP_DELIMITER$\n$warlord_china_explosion_point_desc$"
+ springtime_bettered_name: "Fracturing vermindert"
+ springtime_bettered_desc: "#BOLD Revolutionärer Eifer#! in [SCOPE.GetRootScope.GetCountry.GetName] hat weiter abgenommen."
+ springtime_bettered_tooltip: "#header $warlord_china_explosion_point_name$#!\n$TOOLTIP_DELIMITER$\n$warlord_china_explosion_point_desc$"
+ springtime_bettered_name: "Fracturing vermindert"
+ springtime_bettered_desc: "#BOLD Revolutionärer Eifer#! in [SCOPE.GetRootScope.GetCountry.GetName] hat weiter abgenommen."
+ springtime_bettered_tooltip: "#header $warlord_china_explosion_point_name$#!\n$TOOLTIP_DELIMITER$\n$warlord_china_explosion_point_desc$"
+ notification_springtime_worsened_name: "[SCOPE.GetRootScope.GetCountry.GetName] Destabilizes."
+ notification_springtime_worsened_desc: "Our mishandling of [SCOPE.GetRootScope.GetCountry.GetAdjectiveNoFormatting] affairs has delegitimized our rule, causing the country to inch ever closer to revolution."
+ notification_springtime_worsened_tooltip: "#header $notification_springtime_worsened_name$#!\n$TOOLTIP_DELIMITER$\n$notification_springtime_worsened_desc$"
+ notification_springtime_bettered_name: "[SCOPE.GetRootScope.GetCountry.GetName] Stabilizes."
+ notification_springtime_bettered_desc: "Our skillful steering of the country has legitimized our rule in the eyes of the people, steadily pulling the country back from the brink of revolution."
+ notification_springtime_bettered_tooltip: "#header $notification_springtime_bettered_name$#!\n$TOOLTIP_DELIMITER$\n$notification_springtime_bettered_desc$"
+ notification_springtime_triggered_name: "The Springtime of Nations has begun!"
+ notification_springtime_triggered_desc: "Unrest spreads across Europe, igniting revolutionary sentiments!"
+ notification_springtime_triggered_tooltip: "#header $notification_springtime_triggered_name$#!\n$notification_springtime_triggered_desc$"
+ 
+ modifier_farmers_voting_conservative:0 "Konservative Tendenzen"
+ modifier_untrustworthy_coalition:0 "Nicht vertrauenswürdige Koalition"
+ 
+ ai_strategy_mining_exporter:0 "Bergbauindustrie"
+ ai_strategy_mining_exporter_desc:0 "[COUNTRY.GetName] will neue Minenschächte ausheben und mit dem Export des Materials ein Vermögen machen."
+
+ pm_steel_machine: "Stahlwerkzeugmaschinen"
+ generic_production_tech_research: "Technisches Kraftwerk" 
+ generic_military_tech_research: "Militärisches Machtzentrum"
+ 
+ modifier_building_output_radios_mult:0 "Gebäude @radios! Ausgabe von Funkgeräten"
+ modifier_building_output_radios_mult_desc:0 "Ein Bonus oder Malus auf die Menge der @radios! Radios, die von Gebäuden produziert werden"
+
+ agitator_legal_events.3.t: "Krankheitsurlaub"
+ agitator_legal_events.3.d:1 "Eine lange Rede von [SCOPE.sCharacter('supporting_agitator').GetFullName] nahm eine wilde Wendung, nachdem er ein verdorbenes Getränk zu sich genommen hatte. Mit der Entmündigung von [SCOPE.sCharacter('supporting_agitator').GetHerHis] hat die Regierung einen ihrer wirksamsten Fürsprecher für [SCOPE.sLaw('current_law_scope').GetName] verloren."
+ agitator_legal_events.3.f: "Kurz nach Beginn der Rede wurde ein Page losgeschickt, der mit einem Sandwich und dem verhängnisvollen Getränk ankam. Jeder im Publikum konnte sehen, dass die langatmige Rede zu einem Kampf wurde, um einen aufbegehrenden Magen zu beruhigen.Hätte man die Rede abgebrochen, wäre es mit der Würde des Redners vorbei gewesen. Hätte sie nicht aufgehört, hätten die Leute vielleicht den Kopf eines Mörders gefordert."
+ agitator_legal_events.3.a: "Wünscht [SCOPE.sCharacter('supporting_agitator').GetFullName] eine baldige Genesung."
+ agitator_legal_events.3.b: "Durchsucht die Umgebung nach Attentätern, und zwar im Eiltempo!"
+ 
+  pmg_slaughtering:0 "Abschlachten" # temp during port

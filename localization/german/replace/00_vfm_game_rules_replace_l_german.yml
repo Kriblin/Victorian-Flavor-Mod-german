@@ -1,0 +1,4 @@
+﻿l_german:
+  GAME_RULES_PRESET_AI_BEHAVIOR: "KI-Verhalten: [GameRuleSetting.GetName]"
+  DELETE_SELECTED_PRESET_BUTTON_TOOLTIP: "Dieses Voreinstellung löschen"
+  SAVE_PRESET_BUTTON_TOOLTIP: "Diese Voreinstellung speichern"
